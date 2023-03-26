@@ -11,5 +11,10 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",
     "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "base64-js": "^1.5.1",
+    "next-auth": "^4.20.1"
   }
 }
