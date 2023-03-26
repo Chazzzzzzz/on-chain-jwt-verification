@@ -1,6 +1,24 @@
-# Sample Hardhat Project
+# OnChain JWT Verification
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Motivation
+
+## Methodology
+
+## How to run the tests
+
+### Compile
+
+### Local tests
+
+### OnChain tests
+
+npx hardhat run --network okx scripts/deploy.js
+
+<!-- 0x2279E7AD88fA1Dd418F66Ffc0aD5a1ff9bDc57a6 -->
+
+npx hardhat run --network okx scripts/test.js
+
+<!-- 0xf63d956623d1b49327bd5a890dad02fdea7329ea4e941a63bce5fff54ac16418 -->
 
 Try running some of the following tasks:
 
